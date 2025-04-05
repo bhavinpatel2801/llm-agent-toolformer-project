@@ -6,3 +6,6 @@ wikipedia
 PyMuPDF
 transformers
 sentence-transformers
+wikipedia
+requests
+PyMuPDF

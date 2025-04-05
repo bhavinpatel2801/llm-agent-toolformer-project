@@ -1,0 +1,17 @@
+[
+  {
+    "title": "On cycle covers of infinite bipartite graphs",
+    "summary": "a bipartite graph $G$ with sides $A$ and $B$ satisfies the double Hall property if for every subset $X$ of vertices . $N2_G(X)vert geq ver Xvert$ exists a cycle in $ G$ that covers all vertics of $ A$ . the conjecture is false for infinite graphs in general .",
+    "url": "http://arxiv.org/abs/2504.02816v1"
+  },
+  {
+    "title": "Vertex-Based Localization of Turán's Theorem",
+    "summary": "theorem states that in a simple $K_r+1$ free graph, $m leq fracn2(r-1)2r$ . for each $v in V(G)$, let $c(v)$ be the order of the largest clique that contains $v$.",
+    "url": "http://arxiv.org/abs/2504.02806v1"
+  },
+  {
+    "title": "MENA: Multimodal Epistemic Network Analysis for Visualizing Competencies and Emotions",
+    "summary": "simulated trainings can boost competencies, but extracting meaningful insights from these practices remains a challenge . MENA enhances the capabilities of Epistemic Network Analysis by detecting positive emotions, enabling visualization and analysis of complex relationships between caregiving competencies and emotions in dynamic caregiving practices .",
+    "url": "http://arxiv.org/abs/2504.02794v1"
+  }
+]

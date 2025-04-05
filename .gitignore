@@ -28,3 +28,13 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+# Ignore system + local files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Environment
+.env
+venv/
+data/*.pkl
+

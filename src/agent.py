@@ -1,1 +1,1 @@
-# Agent planner and executor logic
+# Base agent logic can be extended later
