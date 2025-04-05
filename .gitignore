@@ -1,0 +1,30 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+data/raw/*
+data/processed/*
+outputs/models/*
+outputs/figures/*
+venv/
+raw_books/
+vectorstore/
+processed/
+.venv/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+openai
+requests
+langchain
+arxiv
+wikipedia
+PyMuPDF
+transformers
+sentence-transformers
